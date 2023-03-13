@@ -1,0 +1,15 @@
+C:\Users\MONSTER\GitProject\metotOverload\bin\Debug\net7.0\metotOverload.exe
+C:\Users\MONSTER\GitProject\metotOverload\bin\Debug\net7.0\metotOverload.deps.json
+C:\Users\MONSTER\GitProject\metotOverload\bin\Debug\net7.0\metotOverload.runtimeconfig.json
+C:\Users\MONSTER\GitProject\metotOverload\bin\Debug\net7.0\metotOverload.dll
+C:\Users\MONSTER\GitProject\metotOverload\bin\Debug\net7.0\metotOverload.pdb
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.csproj.AssemblyReference.cache
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.AssemblyInfoInputs.cache
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.AssemblyInfo.cs
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.dll
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\refint\metotOverload.dll
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.pdb
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\metotOverload.genruntimeconfig.cache
+C:\Users\MONSTER\GitProject\metotOverload\obj\Debug\net7.0\ref\metotOverload.dll
